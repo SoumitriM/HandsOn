@@ -1,0 +1,10 @@
+D:\Projects\WFA_Calculator\bin\Debug\WFA_Calculator.exe.config
+D:\Projects\WFA_Calculator\bin\Debug\WFA_Calculator.exe
+D:\Projects\WFA_Calculator\bin\Debug\WFA_Calculator.pdb
+D:\Projects\WFA_Calculator\obj\Debug\WFA_Calculator.csprojAssemblyReference.cache
+D:\Projects\WFA_Calculator\obj\Debug\WFA_Calculator.Calculator.resources
+D:\Projects\WFA_Calculator\obj\Debug\WFA_Calculator.Properties.Resources.resources
+D:\Projects\WFA_Calculator\obj\Debug\WFA_Calculator.csproj.GenerateResource.cache
+D:\Projects\WFA_Calculator\obj\Debug\WFA_Calculator.csproj.CoreCompileInputs.cache
+D:\Projects\WFA_Calculator\obj\Debug\WFA_Calculator.exe
+D:\Projects\WFA_Calculator\obj\Debug\WFA_Calculator.pdb

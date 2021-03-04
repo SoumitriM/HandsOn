@@ -1,0 +1,6 @@
+D:\Projects\CalcLibrary\bin\Debug\CalcLibrary.dll
+D:\Projects\CalcLibrary\bin\Debug\CalcLibrary.pdb
+D:\Projects\CalcLibrary\obj\Debug\CalcLibrary.csprojAssemblyReference.cache
+D:\Projects\CalcLibrary\obj\Debug\CalcLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\CalcLibrary\obj\Debug\CalcLibrary.dll
+D:\Projects\CalcLibrary\obj\Debug\CalcLibrary.pdb

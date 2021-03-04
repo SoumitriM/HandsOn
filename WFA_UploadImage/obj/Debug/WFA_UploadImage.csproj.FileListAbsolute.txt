@@ -1,0 +1,10 @@
+D:\Projects\WFA_UploadImage\bin\Debug\WFA_UploadImage.exe.config
+D:\Projects\WFA_UploadImage\bin\Debug\WFA_UploadImage.exe
+D:\Projects\WFA_UploadImage\bin\Debug\WFA_UploadImage.pdb
+D:\Projects\WFA_UploadImage\obj\Debug\WFA_UploadImage.csprojAssemblyReference.cache
+D:\Projects\WFA_UploadImage\obj\Debug\WFA_UploadImage.Properties.Resources.resources
+D:\Projects\WFA_UploadImage\obj\Debug\WFA_UploadImage.csproj.GenerateResource.cache
+D:\Projects\WFA_UploadImage\obj\Debug\WFA_UploadImage.csproj.CoreCompileInputs.cache
+D:\Projects\WFA_UploadImage\obj\Debug\WFA_UploadImage.exe
+D:\Projects\WFA_UploadImage\obj\Debug\WFA_UploadImage.pdb
+D:\Projects\WFA_UploadImage\obj\Debug\WFA_UploadImage.ImageUpload.resources

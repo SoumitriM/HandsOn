@@ -1,0 +1,5 @@
+D:\Projects\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+D:\Projects\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+D:\Projects\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+D:\Projects\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+D:\Projects\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb

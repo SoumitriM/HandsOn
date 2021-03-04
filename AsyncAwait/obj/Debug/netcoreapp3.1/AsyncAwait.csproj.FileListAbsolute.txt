@@ -1,0 +1,13 @@
+C:\Users\soumi\source\repos\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.exe
+C:\Users\soumi\source\repos\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.deps.json
+C:\Users\soumi\source\repos\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.json
+C:\Users\soumi\source\repos\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.dev.json
+C:\Users\soumi\source\repos\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.dll
+C:\Users\soumi\source\repos\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.pdb
+C:\Users\soumi\source\repos\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.csprojAssemblyReference.cache
+C:\Users\soumi\source\repos\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\soumi\source\repos\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfo.cs
+C:\Users\soumi\source\repos\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\soumi\source\repos\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.dll
+C:\Users\soumi\source\repos\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.pdb
+C:\Users\soumi\source\repos\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.genruntimeconfig.cache
