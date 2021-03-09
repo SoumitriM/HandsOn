@@ -1,0 +1,9 @@
+D:\Projects\HandsOn\WindowsService_WriteFile\bin\Debug\WindowsService_WriteFile.exe.config
+D:\Projects\HandsOn\WindowsService_WriteFile\bin\Debug\WindowsService_WriteFile.exe
+D:\Projects\HandsOn\WindowsService_WriteFile\bin\Debug\WindowsService_WriteFile.pdb
+D:\Projects\HandsOn\WindowsService_WriteFile\obj\Debug\WindowsService_WriteFile.csprojAssemblyReference.cache
+D:\Projects\HandsOn\WindowsService_WriteFile\obj\Debug\WindowsService_WriteFile.ProjectInstaller.resources
+D:\Projects\HandsOn\WindowsService_WriteFile\obj\Debug\WindowsService_WriteFile.csproj.GenerateResource.cache
+D:\Projects\HandsOn\WindowsService_WriteFile\obj\Debug\WindowsService_WriteFile.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\WindowsService_WriteFile\obj\Debug\WindowsService_WriteFile.exe
+D:\Projects\HandsOn\WindowsService_WriteFile\obj\Debug\WindowsService_WriteFile.pdb
