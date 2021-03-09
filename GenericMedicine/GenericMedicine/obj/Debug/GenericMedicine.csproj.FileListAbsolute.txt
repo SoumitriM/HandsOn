@@ -1,0 +1,7 @@
+D:\Projects\HandsOn\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe.config
+D:\Projects\HandsOn\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe
+D:\Projects\HandsOn\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.pdb
+D:\Projects\HandsOn\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csprojAssemblyReference.cache
+D:\Projects\HandsOn\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.exe
+D:\Projects\HandsOn\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.pdb
