@@ -20,7 +20,7 @@ namespace GenericMedicineTest
         }
         [Test]
         [TestCase("medicine_name", "genericname", "composition", "2021-08-12", 10)]
-        public void CreateMedicineTest(string name, string genericMedicineName, string composition, DateTime expiryDate, double pricePerStrip)
+        public void CreateMedicine_ReturnMedicine(string name, string genericMedicineName, string composition, DateTime expiryDate, double pricePerStrip)
         {
             var result = program.CreateMedicineDetail(name, genericMedicineName, composition, expiryDate, pricePerStrip);
 
@@ -29,29 +29,28 @@ namespace GenericMedicineTest
 
         [Test]
         [TestCase("medicine_name", "", "composition", "2021-08-12", 2)]
-        public void GenericNameNullTest(string name, string genericMedicineName, string composition, DateTime expiryDate, double pricePerStrip)
+        public void CreateMedicine_GenericNameNull_ThrowException(string name, string genericMedicineName, string composition, DateTime expiryDate, double pricePerStrip)
         {
             Assert.Throws<Exception>(() => program.CreateMedicineDetail(name, genericMedicineName, composition, expiryDate, pricePerStrip));
         }
 
         [Test]
         [TestCase("name", "generic_name", "composition", "2021-08-12", -1)]
-        public void MedicinePriceTest(string name, string genericMedicineName, string composition, DateTime expiryDate, double pricePerStrip)
+        public void CreateMedicine_MedicinePriceNegative_ThrowException(string name, string genericMedicineName, string composition, DateTime expiryDate, double pricePerStrip)
         {
             Assert.Throws<Exception>(() => program.CreateMedicineDetail(name, genericMedicineName, composition, expiryDate, pricePerStrip));
         }
 
         [Test]
         [TestCase("name", "generic_name", "composition", "2020-08-08", 2)]
-        public void ExpiryDateTest(string name, string genericMedicineName, string composition, DateTime expiryDate, double pricePerStrip)
+        public void CreateMedicine_ExpiryDateLessThanCurrDate_ThrowException(string name, string genericMedicineName, string composition, DateTime expiryDate, double pricePerStrip)
         {
             Assert.Throws<Exception>(() => program.CreateMedicineDetail(name, genericMedicineName, composition, expiryDate, pricePerStrip));
         }
 
-        // NUnit test cases for Carton detail
         [Test]
         [TestCase(1, "2021-08-12", "address")]
-        public void CreateCartonTest(int medicineStripCount, DateTime launchDate, string retailerAddress)
+        public void CreateCarton_ReturnCarton(int medicineStripCount, DateTime launchDate, string retailerAddress)
         {
             var medicine = new Medicine()
             {
@@ -69,7 +68,7 @@ namespace GenericMedicineTest
 
         [Test]
         [TestCase(-1, "2021-05-19", "address")]
-        public void MedicineStripCountTest(int medicineStripCount, DateTime launchDate, string retailerAddress)
+        public void CreateCarton_MedicineStripCountNegative_ThrowException(int medicineStripCount, DateTime launchDate, string retailerAddress)
         {
             var medicine = new Medicine()
             {
@@ -85,7 +84,7 @@ namespace GenericMedicineTest
 
         [Test]
         [TestCase(2, "2021-02-15", "address")]
-        public void LaunchDateExceptionTest(int medicineStripCount, DateTime launchDate, string retailerAddress)
+        public void CreateCarton_LaunchDateLessthanCurrDate_ThrowException(int medicineStripCount, DateTime launchDate, string retailerAddress)
         {
             var medicine = new Medicine()
             {
@@ -101,7 +100,7 @@ namespace GenericMedicineTest
 
         [Test]
         [TestCase(3, "2021-05-06", "address", null)]
-        public void MedicineNullTest(int medicineStripCount, DateTime launchDate, string retailerAddress, Medicine medicine)
+        public void CreateCarton_MedicineNull_ReturnNull(int medicineStripCount, DateTime launchDate, string retailerAddress, Medicine medicine)
         {
             var result = program.CreateCartonDetail(medicineStripCount, launchDate, retailerAddress, medicine);
 

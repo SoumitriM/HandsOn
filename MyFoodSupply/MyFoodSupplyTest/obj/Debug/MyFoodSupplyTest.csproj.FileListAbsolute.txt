@@ -1,0 +1,17 @@
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\bin\Debug\nunit.engine.dll
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\bin\Debug\nunit.engine.api.dll
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\bin\Debug\nunit.engine.core.dll
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\bin\Debug\MyFoodSupplyTest.dll
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\bin\Debug\MyFoodSupplyTest.pdb
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\bin\Debug\MyFoodSupply.exe
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\bin\Debug\nunit.framework.dll
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\bin\Debug\MyFoodSupply.pdb
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\bin\Debug\MyFoodSupply.exe.config
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\bin\Debug\nunit.framework.xml
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\obj\Debug\MyFoodSupplyTest.csprojAssemblyReference.cache
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\obj\Debug\MyFoodSupplyTest.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\obj\Debug\MyFoodSupplyTest.csproj.CopyComplete
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\obj\Debug\MyFoodSupplyTest.dll
+D:\Projects\HandsOn\MyFoodSupply\MyFoodSupplyTest\obj\Debug\MyFoodSupplyTest.pdb
