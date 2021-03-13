@@ -1,0 +1,6 @@
+2021-03-10 17:56:37,339 [4] ERROR App  
+ Exception : My Custom Exception 
+ 
+2021-03-10 17:57:35,479 [5] ERROR App  
+ Exception : My Custom Exception 
+ 
