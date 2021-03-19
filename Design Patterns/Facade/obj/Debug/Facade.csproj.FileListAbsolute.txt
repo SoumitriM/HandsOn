@@ -1,0 +1,7 @@
+D:\Projects\HandsOn\Design Principles\Facade\bin\Debug\Facade.exe.config
+D:\Projects\HandsOn\Design Principles\Facade\bin\Debug\Facade.exe
+D:\Projects\HandsOn\Design Principles\Facade\bin\Debug\Facade.pdb
+D:\Projects\HandsOn\Design Principles\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+D:\Projects\HandsOn\Design Principles\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\Design Principles\Facade\obj\Debug\Facade.exe
+D:\Projects\HandsOn\Design Principles\Facade\obj\Debug\Facade.pdb

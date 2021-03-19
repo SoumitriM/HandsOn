@@ -1,0 +1,7 @@
+D:\Projects\HandsOn\Design Principles\Builder\bin\Debug\Builder.exe.config
+D:\Projects\HandsOn\Design Principles\Builder\bin\Debug\Builder.exe
+D:\Projects\HandsOn\Design Principles\Builder\bin\Debug\Builder.pdb
+D:\Projects\HandsOn\Design Principles\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+D:\Projects\HandsOn\Design Principles\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\Design Principles\Builder\obj\Debug\Builder.exe
+D:\Projects\HandsOn\Design Principles\Builder\obj\Debug\Builder.pdb

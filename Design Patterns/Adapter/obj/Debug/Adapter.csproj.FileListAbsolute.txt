@@ -1,0 +1,7 @@
+D:\Projects\HandsOn\Design Principles\Adapter\bin\Debug\Adapter.exe.config
+D:\Projects\HandsOn\Design Principles\Adapter\bin\Debug\Adapter.exe
+D:\Projects\HandsOn\Design Principles\Adapter\bin\Debug\Adapter.pdb
+D:\Projects\HandsOn\Design Principles\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\Projects\HandsOn\Design Principles\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\Design Principles\Adapter\obj\Debug\Adapter.exe
+D:\Projects\HandsOn\Design Principles\Adapter\obj\Debug\Adapter.pdb

@@ -1,0 +1,7 @@
+D:\Projects\HandsOn\SOLID_Princples1\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+D:\Projects\HandsOn\SOLID_Princples1\SOLID_Principles\bin\Debug\SOLID_Principles.exe
+D:\Projects\HandsOn\SOLID_Princples1\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
+D:\Projects\HandsOn\SOLID_Princples1\SOLID_Principles\obj\Debug\SOLID_Principles.csprojAssemblyReference.cache
+D:\Projects\HandsOn\SOLID_Princples1\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\SOLID_Princples1\SOLID_Principles\obj\Debug\SOLID_Principles.exe
+D:\Projects\HandsOn\SOLID_Princples1\SOLID_Principles\obj\Debug\SOLID_Principles.pdb
