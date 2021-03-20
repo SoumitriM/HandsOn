@@ -14,8 +14,9 @@ namespace AbstractFactory
             string brand = Console.ReadLine();
             var obj = new Program();
             var factory = obj.GetFactory(brand);
-            Console.WriteLine(factory.MakeHeadlight());
-            Console.WriteLine(factory.MakeTire());
+            var order = new ClientCar(factory);
+            Console.WriteLine(order.getHeadlight());
+            Console.WriteLine(order.getTire());
             Console.ReadKey();
         }
         public Factory GetFactory(string brand)

@@ -46,6 +46,7 @@
     <Compile Include="AudiFactory.cs" />
     <Compile Include="AudiHeadlight.cs" />
     <Compile Include="AudiTire.cs" />
+    <Compile Include="ClientCar.cs" />
     <Compile Include="Factory.cs" />
     <Compile Include="Headlight.cs" />
     <Compile Include="MercedesFactory.cs" />

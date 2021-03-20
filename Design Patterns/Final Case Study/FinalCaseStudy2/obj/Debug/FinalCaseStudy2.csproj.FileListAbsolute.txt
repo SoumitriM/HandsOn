@@ -1,0 +1,14 @@
+D:\Projects\HandsOn\Design Principles\FinalCaseStudy2\bin\Debug\FinalCaseStudy2.exe.config
+D:\Projects\HandsOn\Design Principles\FinalCaseStudy2\bin\Debug\FinalCaseStudy2.exe
+D:\Projects\HandsOn\Design Principles\FinalCaseStudy2\bin\Debug\FinalCaseStudy2.pdb
+D:\Projects\HandsOn\Design Principles\FinalCaseStudy2\obj\Debug\FinalCaseStudy2.csprojAssemblyReference.cache
+D:\Projects\HandsOn\Design Principles\FinalCaseStudy2\obj\Debug\FinalCaseStudy2.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\Design Principles\FinalCaseStudy2\obj\Debug\FinalCaseStudy2.exe
+D:\Projects\HandsOn\Design Principles\FinalCaseStudy2\obj\Debug\FinalCaseStudy2.pdb
+D:\Projects\HandsOn\Design Patterns\Final Case Study\FinalCaseStudy2\bin\Debug\FinalCaseStudy2.exe.config
+D:\Projects\HandsOn\Design Patterns\Final Case Study\FinalCaseStudy2\bin\Debug\FinalCaseStudy2.exe
+D:\Projects\HandsOn\Design Patterns\Final Case Study\FinalCaseStudy2\bin\Debug\FinalCaseStudy2.pdb
+D:\Projects\HandsOn\Design Patterns\Final Case Study\FinalCaseStudy2\obj\Debug\FinalCaseStudy2.csprojAssemblyReference.cache
+D:\Projects\HandsOn\Design Patterns\Final Case Study\FinalCaseStudy2\obj\Debug\FinalCaseStudy2.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\Design Patterns\Final Case Study\FinalCaseStudy2\obj\Debug\FinalCaseStudy2.exe
+D:\Projects\HandsOn\Design Patterns\Final Case Study\FinalCaseStudy2\obj\Debug\FinalCaseStudy2.pdb

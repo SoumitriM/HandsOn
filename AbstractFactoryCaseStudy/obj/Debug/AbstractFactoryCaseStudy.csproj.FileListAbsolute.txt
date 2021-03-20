@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.exe.config
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.exe
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.pdb
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.exe
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.pdb

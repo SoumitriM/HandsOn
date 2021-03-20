@@ -1,0 +1,14 @@
+D:\Projects\HandsOn\Design Principles\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.exe.config
+D:\Projects\HandsOn\Design Principles\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.exe
+D:\Projects\HandsOn\Design Principles\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.pdb
+D:\Projects\HandsOn\Design Principles\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+D:\Projects\HandsOn\Design Principles\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\Design Principles\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.exe
+D:\Projects\HandsOn\Design Principles\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.pdb
+D:\Projects\HandsOn\Design Patterns\Final Case Study\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.exe.config
+D:\Projects\HandsOn\Design Patterns\Final Case Study\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.exe
+D:\Projects\HandsOn\Design Patterns\Final Case Study\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.pdb
+D:\Projects\HandsOn\Design Patterns\Final Case Study\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+D:\Projects\HandsOn\Design Patterns\Final Case Study\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\Design Patterns\Final Case Study\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.exe
+D:\Projects\HandsOn\Design Patterns\Final Case Study\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.pdb

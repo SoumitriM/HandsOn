@@ -1,0 +1,7 @@
+C:\Users\Saddhu\source\repos\IsaacSaddam2\ADMDF_hands_on\Stage_3\Hands-on\Design Patterns\PracticeCaseStudy\obj\Debug\PracticeCaseStudy.csprojAssemblyReference.cache
+C:\Users\Saddhu\source\repos\IsaacSaddam2\ADMDF_hands_on\Stage_3\Hands-on\Design Patterns\PracticeCaseStudy\obj\Debug\PracticeCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\Saddhu\source\repos\IsaacSaddam2\ADMDF_hands_on\Stage_3\Hands-on\Design Patterns\PracticeCaseStudy\bin\Debug\PracticeCaseStudy.exe.config
+C:\Users\Saddhu\source\repos\IsaacSaddam2\ADMDF_hands_on\Stage_3\Hands-on\Design Patterns\PracticeCaseStudy\bin\Debug\PracticeCaseStudy.exe
+C:\Users\Saddhu\source\repos\IsaacSaddam2\ADMDF_hands_on\Stage_3\Hands-on\Design Patterns\PracticeCaseStudy\bin\Debug\PracticeCaseStudy.pdb
+C:\Users\Saddhu\source\repos\IsaacSaddam2\ADMDF_hands_on\Stage_3\Hands-on\Design Patterns\PracticeCaseStudy\obj\Debug\PracticeCaseStudy.exe
+C:\Users\Saddhu\source\repos\IsaacSaddam2\ADMDF_hands_on\Stage_3\Hands-on\Design Patterns\PracticeCaseStudy\obj\Debug\PracticeCaseStudy.pdb

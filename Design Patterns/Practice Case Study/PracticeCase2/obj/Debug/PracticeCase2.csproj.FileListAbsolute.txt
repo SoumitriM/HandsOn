@@ -1,0 +1,14 @@
+D:\Projects\HandsOn\Design Principles\PracticeCase2\bin\Debug\PracticeCase2.exe.config
+D:\Projects\HandsOn\Design Principles\PracticeCase2\bin\Debug\PracticeCase2.exe
+D:\Projects\HandsOn\Design Principles\PracticeCase2\bin\Debug\PracticeCase2.pdb
+D:\Projects\HandsOn\Design Principles\PracticeCase2\obj\Debug\PracticeCase2.csprojAssemblyReference.cache
+D:\Projects\HandsOn\Design Principles\PracticeCase2\obj\Debug\PracticeCase2.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\Design Principles\PracticeCase2\obj\Debug\PracticeCase2.exe
+D:\Projects\HandsOn\Design Principles\PracticeCase2\obj\Debug\PracticeCase2.pdb
+D:\Projects\HandsOn\Design Patterns\Practice Case Study\PracticeCase2\bin\Debug\PracticeCase2.exe.config
+D:\Projects\HandsOn\Design Patterns\Practice Case Study\PracticeCase2\bin\Debug\PracticeCase2.exe
+D:\Projects\HandsOn\Design Patterns\Practice Case Study\PracticeCase2\bin\Debug\PracticeCase2.pdb
+D:\Projects\HandsOn\Design Patterns\Practice Case Study\PracticeCase2\obj\Debug\PracticeCase2.csprojAssemblyReference.cache
+D:\Projects\HandsOn\Design Patterns\Practice Case Study\PracticeCase2\obj\Debug\PracticeCase2.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOn\Design Patterns\Practice Case Study\PracticeCase2\obj\Debug\PracticeCase2.exe
+D:\Projects\HandsOn\Design Patterns\Practice Case Study\PracticeCase2\obj\Debug\PracticeCase2.pdb
